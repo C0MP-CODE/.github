@@ -25,7 +25,7 @@ body:before {
 }
 ```
 ### Current Projects
-[![C0MP.BOT](https://github-readme-stats.vercel.app/api/pin/?username=C0MP-CODE&repo=C0MP.BOT)](https://github.com/C0MP-CODE/C0MP.BOT)  [![C0MP.BOT](https://github-readme-stats.vercel.app/api/pin/?username=C0MP-CODE&repo=C0MP.BOT)](https://github.com/C0MP-CODE/C0MP.BOT)
+[![C0MP.BOT](https://github-readme-stats.vercel.app/api/pin/?username=C0MP-CODE&repo=C0MP.BOT)](https://github.com/C0MP-CODE/C0MP.BOT)
 
 ### Todo
 
