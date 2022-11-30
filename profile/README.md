@@ -24,12 +24,32 @@ body:before {
 	font-size: 15px;
 }
 ```
+```sql
+INSERT INTO C0MP(Value)
+VALUES ('We also know SQL');
+```
+```java
+public class C0MP {
+    public static void main(String args[]) {
+      System.out.println("We also know Java");
+    }
+}
+```
+```c++
+#include <iostream>  
+using namespace std;  
+  
+int main() {  
+**cout** << "We also know C++";  
+return  0;  
+}
+```
+
 ### Current Projects
 [![C0MP.BOT](https://github-readme-stats.vercel.app/api/pin/?username=C0MP-CODE&repo=C0MP.BOT)](https://github.com/C0MP-CODE/C0MP.BOT)
 
 ### Todo
 
- - Finish [C0MP.BOT](https://github.com/C0MP-CODE/C0MP.BOT) Project
  - Github Auto Deploy To Server (We dont have a name for it yet)
 
 #### Important Links
